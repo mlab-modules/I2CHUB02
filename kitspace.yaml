@@ -1,0 +1,11 @@
+bom: hw/sch_pcb/I2CHUB02.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/I2CHUB02.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/I2CHUB02
+summary: I2CHUB02 is low voltage I2C multiplexer (hub) which allows you to divide
+  I2C bus into 8 separate buses, where the user can switch and connect individual
+  sub-bus differently. This can connect multiple I2Cs to the device, change the voltage
+  levels, or disconnect a certain part of the bus when it is stuck.
