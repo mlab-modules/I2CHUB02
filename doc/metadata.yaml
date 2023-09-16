@@ -16,6 +16,7 @@ images:
 - doc/img/I2CHUB02B_QRcode.png
 issues: 2
 mark: 50
+status: 0
 tags:
 - arduino
 - i2c
