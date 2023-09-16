@@ -9,7 +9,7 @@ github_branches:
 github_repo: I2CHUB02
 github_url: https://github.com/mlab-modules/I2CHUB02
 homepage: false
-image: doc/img/I2CHUB02B_top_small.jpg
+image_title: doc/img/I2CHUB02B_top_small.jpg
 images:
 - doc/img/I2CHUB02B_top_big.jpg
 - doc/img/I2CHUB02B_top_small.jpg
