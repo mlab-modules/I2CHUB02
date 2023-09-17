@@ -6,6 +6,10 @@ github_branch: I2CHUB02B
 github_branches:
 - I2CHUB02A
 - I2CHUB02B
+github_description: I2CHUB02 is low voltage I2C multiplexer (hub) which allows you
+  to divide I2C bus into 8 separate buses, where the user can switch and connect individual
+  sub-bus differently. This can connect multiple I2Cs to the device, change the voltage
+  levels, or disconnect a certain part of the bus when it is stuck.
 github_repo: I2CHUB02
 github_url: https://github.com/mlab-modules/I2CHUB02
 homepage: false
@@ -30,4 +34,4 @@ tags:
 - level-translator
 - mlab-module
 title: I2CHUB02
-updated: '2023-09-16T22:01:27.817286+00:00'
+updated: '2023-09-17T11:42:57.578784+00:00'
